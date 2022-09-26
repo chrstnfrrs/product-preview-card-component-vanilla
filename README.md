@@ -1,6 +1,6 @@
 # Product Preview Card Component Vanilla
 
-TODO: Add Netlify Status Badge
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f480c812-c14f-44c8-ac50-e75e82819be0/deploy-status)](https://app.netlify.com/sites/neon-kleicha-0900fe/deploys)
 
 ## Description
 
